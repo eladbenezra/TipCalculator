@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bill_amount" >Bill Amount: </string>
+    <string name="check_round" >Round to nearest dollar</string>
+    <string name="app_name">Tip Calculator</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="tip">Tip: </string>
+
+</resources>
